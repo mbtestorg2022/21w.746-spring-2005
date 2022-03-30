@@ -4,6 +4,7 @@ description: Example of work for Assignment 3 courtesy of Abdurrahman Kandil, a 
   in the class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-746-humanistic-perspectives-on-medicine-from-ancient-greece-to-modern-america-spring-2005/bcb8cf7af734b062d4e295476af4b5cf_kandil_drug_pricing_2005.pdf
 file_type: application/pdf
+parent_uid: 76b45271-996a-03b8-81cd-c07cb2dee47f
 resourcetype: Document
 title: kandil_drug_pricing_2005.pdf
 uid: bcb8cf7a-f734-b062-d4e2-95476af4b5cf
